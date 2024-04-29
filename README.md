@@ -29,4 +29,4 @@ This end-to-end project, from defining the business challenge to obtaining actio
 https://github.com/CharithReddyG/Home-credit/blob/9b77cda43d1ba63702ecdfce6d198853bee36141/Capstone%20Presentation%20Group%206%20(1).pptx)
 
 ## Link to Project file 
-[Project file]()
+[Project file](https://github.com/CharithReddyG/Home-credit/blob/9b77cda43d1ba63702ecdfce6d198853bee36141/Home%20Credit_new_Group_6_modified%20(1).ipynb)
